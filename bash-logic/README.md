@@ -31,7 +31,7 @@ Il existe ainsi plusieurs opérateurs pour les nombres tels que:
 - `-le` => Plus petit ou égal à 
 
 Lorsque l'on travaille avec les chaines de caractères, les opérateurs sont:
-- `=` => Est-ce-que les chaines sont les mêmes ?
+- `==` => Est-ce-que les chaines sont les mêmes ?
 - `!=` => Est-ce-que les chaines sont différentes ?
 - `-z` => Est-ce-que La chaine à droite est vide ?
 - `-n` => Est-ce-que La chaine à droite n'est pas vide ?
